@@ -1,0 +1,20 @@
+body{
+    background-color: dimgrey;
+}
+h2{
+    color:saddlebrown;
+    text-align: center;
+    margin-top: 10px;
+}
+.sueb{
+    width: 800px;
+    margin: 20px auto;
+}
+.suep{
+    width: 800px;
+    margin: 20px auto;
+    padding: 40px;
+    border-width: 10px;
+    border-style: ridge;
+    border-color: aliceblue;
+}

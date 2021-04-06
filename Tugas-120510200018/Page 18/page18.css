@@ -1,0 +1,103 @@
+body{
+    background-color: dimgrey;
+}
+h2{
+    color:saddlebrown;   
+    text-align: center;
+}
+.overflow{
+    display: -webkit-flex;
+    display: flex;
+    overflow: auto;
+    border-style: solid;
+    background-color: snow;
+    border-color: teal;
+    border-width: 6px;
+}
+ul{
+    list-style-type: square;
+}
+nav{
+    vertical-align:top;
+    background-color: snow;
+    width: 188px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(173, 30, 5);
+}
+.flexcolumn{
+    -webkit-flex: 1;
+            flex: 1;
+    vertical-align: top;
+    background-color: snow;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(88, 241, 17);
+}
+section{
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(53, 192, 247);
+    background-color: snow;
+    min-height: 100px;
+    padding: 4px;
+}
+.initial{
+    -webkit-flex: initial;
+            flex: initial;
+    width: 200px;
+    min-width: 100px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(248, 172, 30);
+    background-color: snow;
+    padding: 4px;
+}
+.none{
+    -webkit-flex: none;
+            flex: none;
+    width: 200px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(248, 172, 30);
+    background-color: snow;
+    padding: 4px;
+}
+.flex1{
+    -webkit-flex: 1;
+            flex: 1;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(248, 172, 30);
+    background-color: snow;
+    padding: 4px;
+}
+.flex2{
+    -webkit-flex: 2;
+            flex: 2;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(248, 172, 30);
+    background-color: snow;
+    padding: 4px;
+}
+.verticalcontainer{
+    height: 300px;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(30, 179, 248);
+    background-color: snow;
+}
+.mantab{
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(0, 207, 69);
+    background-color: snow;
+    padding: 4px;
+}

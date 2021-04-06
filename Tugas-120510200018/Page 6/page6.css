@@ -1,0 +1,24 @@
+body{
+    background-color: dimgrey;
+}
+h2{
+    color:saddlebrown;
+    text-align: center;
+    margin-top: 10px;
+}
+.mantab1 {
+    width: 670px;
+    margin: 15px auto;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}  
+.mantab2 {
+    width: 670px;
+    margin: 15px auto;
+    padding: 55px;
+    border: dashed aqua 10px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}

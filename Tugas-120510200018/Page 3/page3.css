@@ -1,0 +1,12 @@
+body{
+    background-color: dimgrey;
+}
+h2{
+    color:saddlebrown;
+    text-align: center;
+    margin-top: 10px;
+}
+#sueb{
+    width: 800px;
+    margin: 0 auto;
+}

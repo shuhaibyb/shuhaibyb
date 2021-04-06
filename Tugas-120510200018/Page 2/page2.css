@@ -1,0 +1,13 @@
+.none{
+    display: none;
+}
+.hidden{
+    visibility: hidden;
+}
+body{
+    background-color: dimgrey;
+}
+h2{
+    color:saddlebrown;
+    text-align: center;
+}

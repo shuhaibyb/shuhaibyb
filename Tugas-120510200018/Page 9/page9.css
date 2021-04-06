@@ -1,0 +1,21 @@
+body{
+    background-color: dimgrey;
+}
+h2{
+    color:saddlebrown;   
+    text-align: center;
+}
+.kotak{
+    background-color: khaki;
+    max-width: 800px;
+    min-height: 300px;
+    padding: 7px;
+    margin: 0 auto;   
+}
+img{
+    float: right;
+    margin: 0 0 1em 1em;
+}
+p{
+    text-align: justify;
+}

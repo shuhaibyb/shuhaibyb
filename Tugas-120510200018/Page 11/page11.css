@@ -1,0 +1,27 @@
+body{
+    background-color: dimgrey;
+    max-width: 800px;
+    margin: 8px auto;
+}
+h2{
+    color:saddlebrown;   
+    text-align: center;
+}
+img{
+    float: right;
+}
+.kotak{
+    background-color: rgb(218, 197, 170);
+    border-style: solid;
+    border-width: 5px;
+    border-color: teal;
+    padding: 3px;
+}
+.kotakafteroverflow{
+    background-color: rgb(218, 197, 170);
+    border-style: solid;
+    border-width: 5px;
+    border-color: teal;
+    padding: 3px;
+    overflow: auto;
+}

@@ -1,0 +1,31 @@
+body{
+    background-color: dimgrey;
+}
+h2{
+    color:saddlebrown;   
+    text-align: center;
+}
+section{
+    background-color: snow;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgba(61, 126, 86, 0.781);
+    width: 100%;
+    margin: 10px;
+    padding: 10px
+}
+.box{
+    background-color: snow;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgba(48, 5, 35, 0.781);
+    width: 198px;
+    height:98px;
+    margin: 1em;
+    padding: 4px;
+    float:left;
+    text-align: center;
+}
+.afterbox{
+    clear: left;
+}
